@@ -1,0 +1,13 @@
+#private
+/config/settings/settings_private.*
+secrets.py
+secrets.json
+
+#backup
+*.*~
+
+#binaries
+*.py[cod]
+
+# virtual environment
+/env
